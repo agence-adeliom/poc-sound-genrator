@@ -1,0 +1,7 @@
+{
+  "name": "soundmaster",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue"
+}
